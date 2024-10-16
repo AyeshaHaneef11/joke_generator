@@ -1,0 +1,27 @@
+
+.main-container{
+  display: grid;
+  place-content: center;
+  place-items: center;
+  height: 100vh;
+  background-color: #e7d39f;
+  color:#3f338a;
+  font-weight: bold
+  
+}
+.btn{
+  margin-top: 20px;
+  padding: 8px 10px 8px 10px;
+  border: none;
+  background-color: #6156a3;
+  color:#d0ccee;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.btn:hover{
+  background-color: #DDA0DD;
+  color:#3f338a;
+  
+
+}
